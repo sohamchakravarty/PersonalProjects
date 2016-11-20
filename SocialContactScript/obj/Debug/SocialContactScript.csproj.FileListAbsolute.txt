@@ -1,0 +1,11 @@
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\bin\Debug\EmailTemplates\FirstEmailTemplate.htm
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\bin\Debug\EmailTemplates\SecondEmailTemplate.html
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\bin\Debug\SocialContactScript.exe.config
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\bin\Debug\SocialContactScript.exe
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\bin\Debug\SocialContactScript.pdb
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\obj\Debug\SocialContactScript.csprojResolveAssemblyReference.cache
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\obj\Debug\SocialContactScript.exe
+C:\Users\sochakr\Desktop\Personal Projects\SocialContactScript\SocialContactScript\obj\Debug\SocialContactScript.pdb
